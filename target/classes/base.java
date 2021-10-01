@@ -31,14 +31,14 @@ public class base {
 
 	public WebDriver intializeDriver() throws IOException {
 		prop = new Properties();
-		FileInputStream fis = new FileInputStream("E:\\Selenium Practice 27Mar2021\\Ecommerce-E2E-Project\\src\\main\\java\\resources\\data.properties");
+		FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\resources\\data.properties");
 		prop.load(fis);
 		String browserName = prop.getProperty("browser");
 //		String browserName = System.getProperty("browser");
 
 		if (browserName.contains("chrome")) {
 			
-			System.setProperty("webdriver.chrome.driver",prop.getProperty("chromedriverPath"));
+			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"\\Driver_Executables\\chromedriver.exe");
 			ChromeOptions options = new ChromeOptions();
 			if(browserName.contains("headless"))
 			{
