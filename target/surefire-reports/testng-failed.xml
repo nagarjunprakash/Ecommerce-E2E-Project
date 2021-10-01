@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="scripts.Listeners"/>
+  </listeners>
+  <test name="Sanity Test(failed)">
+    <classes>
+      <class name="scripts.Scenario2">
+        <methods>
+          <include name="Scenario2_step1"/>
+          <include name="Scenario2_step3"/>
+          <include name="Scenario2_step2"/>
+        </methods>
+      </class> <!-- scripts.Scenario2 -->
+      <class name="scripts.Scenario3">
+        <methods>
+          <include name="Scenario3_step1"/>
+          <include name="Scenario3_step3"/>
+          <include name="Scenario3_step2"/>
+        </methods>
+      </class> <!-- scripts.Scenario3 -->
+      <class name="scripts.Scenario1">
+        <methods>
+          <include name="openBrowser_Enter_the_Url"/>
+          <include name="Scenario1_step2"/>
+          <include name="Scenario1_step3"/>
+          <include name="Scenario1_step4"/>
+          <include name="Scenario1_step5"/>
+          <include name="Scenario1_step1"/>
+          <include name="Scenario1_step6"/>
+        </methods>
+      </class> <!-- scripts.Scenario1 -->
+      <class name="scripts.Scenario4">
+        <methods>
+          <include name="Scenario4_step6"/>
+          <include name="Scenario4_step3"/>
+          <include name="Scenario4_step5"/>
+          <include name="Scenario4_step2"/>
+          <include name="Scenario4_step4"/>
+          <include name="Scenario4_step1"/>
+        </methods>
+      </class> <!-- scripts.Scenario4 -->
+    </classes>
+  </test> <!-- Sanity Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
