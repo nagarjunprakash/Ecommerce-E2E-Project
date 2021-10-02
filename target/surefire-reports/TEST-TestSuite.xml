@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="114.328" tests="18" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="65.09" tests="18" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire2486993326957042575\surefirebooter1540806251368405901.jar C:\Users\User\AppData\Local\Temp\surefire2486993326957042575 2021-10-01T20-18-05_005-jvmRun1 surefire4237599274268648358tmp surefire_08859464241760056826tmp"/>
+    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire6732422850036837756\surefirebooter1323854822334386441.jar C:\Users\User\AppData\Local\Temp\surefire6732422850036837756 2021-10-02T08-36-07_494-jvmRun1 surefire5216350822591576547tmp surefire_05148136193778533841tmp"/>
     <property name="surefire.test.class.path" value="E:\Selenium Practice 27Mar2021\Ecommerce-E2E-Project\target\test-classes;E:\Selenium Practice 27Mar2021\Ecommerce-E2E-Project\target\classes;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\User\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\User\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\User\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\User\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\User\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\User\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\User\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\User\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\User\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\User\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\User\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\User\.m2\repository\org\testng\testng\6.8\testng-6.8.jar;C:\Users\User\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\User\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\User\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\User\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar;C:\Users\User\.m2\repository\org\yaml\snakeyaml\1.6\snakeyaml-1.6.jar;C:\Users\User\.m2\repository\org\apache\logging\log4j\log4j-api\2.8.2\log4j-api-2.8.2.jar;C:\Users\User\.m2\repository\org\apache\logging\log4j\log4j-core\2.8.2\log4j-core-2.8.2.jar;C:\Users\User\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\User\.m2\repository\com\aventstack\extentreports\5.0.8\extentreports-5.0.8.jar;C:\Users\User\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\User\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\User\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\User\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;C:\Users\User\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\User\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\User"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire2486993326957042575\surefirebooter1540806251368405901.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire6732422850036837756\surefirebooter1323854822334386441.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,58 +61,58 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="Scenario1_step1" classname="scripts.Scenario1" time="3.985">
-    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 1805
+  <testcase name="Scenario1_step1" classname="scripts.Scenario1" time="2.342">
+    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 12787
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1633099716.367][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
-Oct 01, 2021 8:18:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1633143982.183][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+Oct 02, 2021 8:36:23 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="Scenario1_step2" classname="scripts.Scenario1" time="4.025"/>
-  <testcase name="Scenario1_step3" classname="scripts.Scenario1" time="1.624"/>
-  <testcase name="Scenario1_step4" classname="scripts.Scenario1" time="0.024"/>
-  <testcase name="Scenario1_step5" classname="scripts.Scenario1" time="4.752"/>
-  <testcase name="Scenario1_step6" classname="scripts.Scenario1" time="0.015"/>
-  <testcase name="Scenario2_step1" classname="scripts.Scenario2" time="1.781">
-    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 39560
+  <testcase name="Scenario1_step2" classname="scripts.Scenario1" time="3.801"/>
+  <testcase name="Scenario1_step3" classname="scripts.Scenario1" time="1.451"/>
+  <testcase name="Scenario1_step4" classname="scripts.Scenario1" time="0.03"/>
+  <testcase name="Scenario1_step5" classname="scripts.Scenario1" time="4.305"/>
+  <testcase name="Scenario1_step6" classname="scripts.Scenario1" time="0.014"/>
+  <testcase name="Scenario2_step1" classname="scripts.Scenario2" time="1.579">
+    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 17733
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1633099742.888][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
-Oct 01, 2021 8:19:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1633144003.847][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+Oct 02, 2021 8:36:43 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="Scenario2_step2" classname="scripts.Scenario2" time="3.426"/>
-  <testcase name="Scenario2_step3" classname="scripts.Scenario2" time="0.026"/>
-  <testcase name="Scenario3_step1" classname="scripts.Scenario3" time="1.869">
-    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 3882
+  <testcase name="Scenario2_step2" classname="scripts.Scenario2" time="2.802"/>
+  <testcase name="Scenario2_step3" classname="scripts.Scenario2" time="0.017"/>
+  <testcase name="Scenario3_step1" classname="scripts.Scenario3" time="2.034">
+    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 7749
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1633099758.611][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
-Oct 01, 2021 8:19:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1633144016.471][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+Oct 02, 2021 8:36:56 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="Scenario3_step2" classname="scripts.Scenario3" time="2.288"/>
+  <testcase name="Scenario3_step2" classname="scripts.Scenario3" time="1.789"/>
   <testcase name="Scenario3_step3" classname="scripts.Scenario3" time="0.12"/>
-  <testcase name="Scenario4_step1" classname="scripts.Scenario4" time="2.644">
-    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 34839
+  <testcase name="Scenario4_step1" classname="scripts.Scenario4" time="1.808">
+    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 11076
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1633099772.874][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
-Oct 01, 2021 8:19:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1633144026.248][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+Oct 02, 2021 8:37:06 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="Scenario4_step2" classname="scripts.Scenario4" time="3.597"/>
-  <testcase name="Scenario4_step3" classname="scripts.Scenario4" time="0.013"/>
-  <testcase name="Scenario4_step4" classname="scripts.Scenario4" time="4.915"/>
+  <testcase name="Scenario4_step2" classname="scripts.Scenario4" time="3.065"/>
+  <testcase name="Scenario4_step3" classname="scripts.Scenario4" time="0.015"/>
+  <testcase name="Scenario4_step4" classname="scripts.Scenario4" time="2.977"/>
   <testcase name="Scenario4_step5" classname="scripts.Scenario4" time="0.158"/>
-  <testcase name="Scenario4_step6" classname="scripts.Scenario4" time="0.11"/>
+  <testcase name="Scenario4_step6" classname="scripts.Scenario4" time="0.146"/>
 </testsuite>

@@ -2,118 +2,118 @@
 <testng-results skipped="0" failed="0" total="18" passed="18">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="110114" started-at="2021-10-01T14:48:08Z" finished-at="2021-10-01T14:49:58Z">
+  <suite name="Suite" duration-ms="62480" started-at="2021-10-02T03:06:17Z" finished-at="2021-10-02T03:07:20Z">
     <groups>
     </groups>
-    <test name="Sanity Test" duration-ms="110114" started-at="2021-10-01T14:48:08Z" finished-at="2021-10-01T14:49:58Z">
+    <test name="Sanity Test" duration-ms="62480" started-at="2021-10-02T03:06:17Z" finished-at="2021-10-02T03:07:20Z">
       <class name="scripts.Scenario1">
-        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario1@dd3b207]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="38038" started-at="2021-10-01T20:18:08Z" finished-at="2021-10-01T20:18:46Z">
+        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario1@dd3b207]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="10592" started-at="2021-10-02T08:36:17Z" finished-at="2021-10-02T08:36:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser_Enter_the_Url -->
-        <test-method status="PASS" signature="Scenario1_step1()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step1" duration-ms="4020" started-at="2021-10-01T20:18:46Z" finished-at="2021-10-01T20:18:50Z">
+        <test-method status="PASS" signature="Scenario1_step1()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step1" duration-ms="2362" started-at="2021-10-02T08:36:28Z" finished-at="2021-10-02T08:36:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario1_step1 -->
-        <test-method status="PASS" signature="Scenario1_step2()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step2" duration-ms="4026" started-at="2021-10-01T20:18:50Z" finished-at="2021-10-01T20:18:54Z">
+        <test-method status="PASS" signature="Scenario1_step2()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step2" duration-ms="3801" started-at="2021-10-02T08:36:30Z" finished-at="2021-10-02T08:36:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario1_step2 -->
-        <test-method status="PASS" signature="Scenario1_step3()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step3" duration-ms="1625" started-at="2021-10-01T20:18:54Z" finished-at="2021-10-01T20:18:56Z">
+        <test-method status="PASS" signature="Scenario1_step3()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step3" duration-ms="1451" started-at="2021-10-02T08:36:34Z" finished-at="2021-10-02T08:36:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario1_step3 -->
-        <test-method status="PASS" signature="Scenario1_step4()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step4" duration-ms="23" started-at="2021-10-01T20:18:56Z" finished-at="2021-10-01T20:18:56Z">
+        <test-method status="PASS" signature="Scenario1_step4()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step4" duration-ms="30" started-at="2021-10-02T08:36:35Z" finished-at="2021-10-02T08:36:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario1_step4 -->
-        <test-method status="PASS" signature="Scenario1_step5()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step5" duration-ms="4752" started-at="2021-10-01T20:18:56Z" finished-at="2021-10-01T20:19:00Z">
+        <test-method status="PASS" signature="Scenario1_step5()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step5" duration-ms="4304" started-at="2021-10-02T08:36:35Z" finished-at="2021-10-02T08:36:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario1_step5 -->
-        <test-method status="PASS" signature="Scenario1_step6()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step6" duration-ms="14" started-at="2021-10-01T20:19:00Z" finished-at="2021-10-01T20:19:00Z">
+        <test-method status="PASS" signature="Scenario1_step6()[pri:0, instance:scripts.Scenario1@dd3b207]" name="Scenario1_step6" duration-ms="14" started-at="2021-10-02T08:36:40Z" finished-at="2021-10-02T08:36:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario1_step6 -->
-        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario1@dd3b207]" name="close_the_browser" is-config="true" duration-ms="316" started-at="2021-10-01T20:19:00Z" finished-at="2021-10-01T20:19:01Z">
+        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario1@dd3b207]" name="close_the_browser" is-config="true" duration-ms="285" started-at="2021-10-02T08:36:40Z" finished-at="2021-10-02T08:36:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_the_browser -->
       </class> <!-- scripts.Scenario1 -->
       <class name="scripts.Scenario2">
-        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario2@6385cb26]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="10088" started-at="2021-10-01T20:19:01Z" finished-at="2021-10-01T20:19:11Z">
+        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario2@6385cb26]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="9597" started-at="2021-10-02T08:36:40Z" finished-at="2021-10-02T08:36:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser_Enter_the_Url -->
-        <test-method status="PASS" signature="Scenario2_step1()[pri:0, instance:scripts.Scenario2@6385cb26]" name="Scenario2_step1" duration-ms="1815" started-at="2021-10-01T20:19:11Z" finished-at="2021-10-01T20:19:13Z">
+        <test-method status="PASS" signature="Scenario2_step1()[pri:0, instance:scripts.Scenario2@6385cb26]" name="Scenario2_step1" duration-ms="1603" started-at="2021-10-02T08:36:50Z" finished-at="2021-10-02T08:36:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario2_step1 -->
-        <test-method status="PASS" signature="Scenario2_step2()[pri:0, instance:scripts.Scenario2@6385cb26]" name="Scenario2_step2" duration-ms="3431" started-at="2021-10-01T20:19:13Z" finished-at="2021-10-01T20:19:16Z">
+        <test-method status="PASS" signature="Scenario2_step2()[pri:0, instance:scripts.Scenario2@6385cb26]" name="Scenario2_step2" duration-ms="2803" started-at="2021-10-02T08:36:51Z" finished-at="2021-10-02T08:36:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario2_step2 -->
-        <test-method status="PASS" signature="Scenario2_step3()[pri:0, instance:scripts.Scenario2@6385cb26]" name="Scenario2_step3" duration-ms="27" started-at="2021-10-01T20:19:16Z" finished-at="2021-10-01T20:19:16Z">
+        <test-method status="PASS" signature="Scenario2_step3()[pri:0, instance:scripts.Scenario2@6385cb26]" name="Scenario2_step3" duration-ms="16" started-at="2021-10-02T08:36:54Z" finished-at="2021-10-02T08:36:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario2_step3 -->
-        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario2@6385cb26]" name="close_the_browser" is-config="true" duration-ms="303" started-at="2021-10-01T20:19:16Z" finished-at="2021-10-01T20:19:16Z">
+        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario2@6385cb26]" name="close_the_browser" is-config="true" duration-ms="159" started-at="2021-10-02T08:36:54Z" finished-at="2021-10-02T08:36:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_the_browser -->
       </class> <!-- scripts.Scenario2 -->
       <class name="scripts.Scenario3">
-        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario3@78a2da20]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="9047" started-at="2021-10-01T20:19:16Z" finished-at="2021-10-01T20:19:25Z">
+        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario3@78a2da20]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="5744" started-at="2021-10-02T08:36:54Z" finished-at="2021-10-02T08:37:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser_Enter_the_Url -->
-        <test-method status="PASS" signature="Scenario3_step1()[pri:0, instance:scripts.Scenario3@78a2da20]" name="Scenario3_step1" duration-ms="1883" started-at="2021-10-01T20:19:25Z" finished-at="2021-10-01T20:19:27Z">
+        <test-method status="PASS" signature="Scenario3_step1()[pri:0, instance:scripts.Scenario3@78a2da20]" name="Scenario3_step1" duration-ms="2065" started-at="2021-10-02T08:37:00Z" finished-at="2021-10-02T08:37:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario3_step1 -->
-        <test-method status="PASS" signature="Scenario3_step2()[pri:0, instance:scripts.Scenario3@78a2da20]" name="Scenario3_step2" duration-ms="2284" started-at="2021-10-01T20:19:27Z" finished-at="2021-10-01T20:19:30Z">
+        <test-method status="PASS" signature="Scenario3_step2()[pri:0, instance:scripts.Scenario3@78a2da20]" name="Scenario3_step2" duration-ms="1789" started-at="2021-10-02T08:37:02Z" finished-at="2021-10-02T08:37:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario3_step2 -->
-        <test-method status="PASS" signature="Scenario3_step3()[pri:0, instance:scripts.Scenario3@78a2da20]" name="Scenario3_step3" duration-ms="122" started-at="2021-10-01T20:19:30Z" finished-at="2021-10-01T20:19:30Z">
+        <test-method status="PASS" signature="Scenario3_step3()[pri:0, instance:scripts.Scenario3@78a2da20]" name="Scenario3_step3" duration-ms="121" started-at="2021-10-02T08:37:04Z" finished-at="2021-10-02T08:37:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario3_step3 -->
-        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario3@78a2da20]" name="close_the_browser" is-config="true" duration-ms="157" started-at="2021-10-01T20:19:30Z" finished-at="2021-10-01T20:19:30Z">
+        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario3@78a2da20]" name="close_the_browser" is-config="true" duration-ms="188" started-at="2021-10-02T08:37:04Z" finished-at="2021-10-02T08:37:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_the_browser -->
       </class> <!-- scripts.Scenario3 -->
       <class name="scripts.Scenario4">
-        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario4@551bdc27]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="9232" started-at="2021-10-01T20:19:30Z" finished-at="2021-10-01T20:19:39Z">
+        <test-method status="PASS" signature="openBrowser_Enter_the_Url()[pri:0, instance:scripts.Scenario4@551bdc27]" name="openBrowser_Enter_the_Url" is-config="true" duration-ms="5612" started-at="2021-10-02T08:37:04Z" finished-at="2021-10-02T08:37:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser_Enter_the_Url -->
-        <test-method status="PASS" signature="Scenario4_step1()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step1" duration-ms="2651" started-at="2021-10-01T20:19:39Z" finished-at="2021-10-01T20:19:42Z">
+        <test-method status="PASS" signature="Scenario4_step1()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step1" duration-ms="1810" started-at="2021-10-02T08:37:10Z" finished-at="2021-10-02T08:37:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario4_step1 -->
-        <test-method status="PASS" signature="Scenario4_step2()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step2" duration-ms="3598" started-at="2021-10-01T20:19:42Z" finished-at="2021-10-01T20:19:45Z">
+        <test-method status="PASS" signature="Scenario4_step2()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step2" duration-ms="3063" started-at="2021-10-02T08:37:12Z" finished-at="2021-10-02T08:37:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario4_step2 -->
-        <test-method status="PASS" signature="Scenario4_step3()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step3" duration-ms="14" started-at="2021-10-01T20:19:45Z" finished-at="2021-10-01T20:19:45Z">
+        <test-method status="PASS" signature="Scenario4_step3()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step3" duration-ms="16" started-at="2021-10-02T08:37:15Z" finished-at="2021-10-02T08:37:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario4_step3 -->
-        <test-method status="PASS" signature="Scenario4_step4()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step4" duration-ms="4915" started-at="2021-10-01T20:19:49Z" finished-at="2021-10-01T20:19:54Z">
+        <test-method status="PASS" signature="Scenario4_step4()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step4" duration-ms="2978" started-at="2021-10-02T08:37:16Z" finished-at="2021-10-02T08:37:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario4_step4 -->
-        <test-method status="PASS" signature="Scenario4_step5()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step5" duration-ms="158" started-at="2021-10-01T20:19:54Z" finished-at="2021-10-01T20:19:54Z">
+        <test-method status="PASS" signature="Scenario4_step5()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step5" duration-ms="158" started-at="2021-10-02T08:37:19Z" finished-at="2021-10-02T08:37:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario4_step5 -->
-        <test-method status="PASS" signature="Scenario4_step6()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step6" duration-ms="110" started-at="2021-10-01T20:19:55Z" finished-at="2021-10-01T20:19:55Z">
+        <test-method status="PASS" signature="Scenario4_step6()[pri:0, instance:scripts.Scenario4@551bdc27]" name="Scenario4_step6" duration-ms="143" started-at="2021-10-02T08:37:19Z" finished-at="2021-10-02T08:37:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Scenario4_step6 -->
-        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario4@551bdc27]" name="close_the_browser" is-config="true" duration-ms="3299" started-at="2021-10-01T20:19:55Z" finished-at="2021-10-01T20:19:58Z">
+        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:scripts.Scenario4@551bdc27]" name="close_the_browser" is-config="true" duration-ms="122" started-at="2021-10-02T08:37:20Z" finished-at="2021-10-02T08:37:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_the_browser -->

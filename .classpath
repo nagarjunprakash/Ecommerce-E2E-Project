@@ -24,5 +24,23 @@
 	</classpathentry>
 	<classpathentry kind="src" path="/Cucumber-BDD-demoproject"/>
 	<classpathentry kind="lib" path="E:/Selenium Practice 27Mar2021/Selenium3 Jars Files/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/org/testng/testng/6.8/testng-6.8.jar" sourcepath="C:/Users/User/.m2/repository/org/testng/testng/6.8/testng-6.8-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="6.8"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar" sourcepath="C:/Users/User/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="3.141.59"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
